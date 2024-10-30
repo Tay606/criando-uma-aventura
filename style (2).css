@@ -1,0 +1,33 @@
+body {
+background-color: rgb(70, 6, 8);
+color: white;
+font-family: ""Cinzel", serif;", cursive;
+display:flex;
+justify-content: center;
+align-items: center;
+height:600px;
+margin: 10;
+}
+
+button {
+ background-color: rgb(192, 2, 14);
+ color: white;
+ font-family: ""Cinzel", serif;", cursive;
+}
+
+.passo {
+display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width:60% ;
+}
